@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.containers {
+    background-image: url(./assets/photo-1563974318767-a4de855d7b43.avif);
+    filter: brightness(80%);
+    -webkit-filter: brightness(80%);
+}
+
